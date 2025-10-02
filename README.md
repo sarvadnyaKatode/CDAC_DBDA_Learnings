@@ -3,8 +3,8 @@
 This repository contains my learnings, assignments, and projects from the **Post Graduate Diploma in Big Data Analytics (PG-DBDA)** program at **CDAC VITA, Mumbai** (Aug 2025 – Feb 2026).
 
 ## 📂 Repository Structure
-- `/Foundation/` → Basics: Linux, Git, Python, R, DBMS
-- `/Core/` → Big Data Analytics, Machine Learning, Cloud, Java, Hadoop, Spark
+- `/Foundation/` → Basics: Linux, Git, Python, Java, R, DBMS
+- `/Core/` → Big Data Analytics, Machine Learning, Cloud, Hadoop, Spark
 - `/Assignments/` → Module-wise assignments
 - `/Projects/` → Mini & Major projects
 - `/Resources/` → Notes, PPTs, PDFs, cheat-sheets
