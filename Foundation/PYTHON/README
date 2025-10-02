@@ -1,0 +1,21 @@
+This folder contains my learnings and practice work for Python Programming covered in the CDAC DBDA program.
+
+Contents
+Basics/ → Variables, Data Types, Operators, Conditional Statements, Loops
+Functions/ → User-defined functions, Lambda, Recursion
+OOPs/ → Classes, Objects, Inheritance, Polymorphism, Encapsulation
+Modules_Packages/ → Built-in modules, Custom modules, Packages
+FileHandling/ → Reading/Writing files, Exception Handling
+Libraries/ → NumPy, Pandas, Matplotlib, Scikit-learn (intro level)
+Assignments/ → Weekly assignments + solutions
+MiniProjects/ → Small Python-based projects
+
+Description
+
+This directory is dedicated to hands-on Python programming.
+It includes:
+
+Notes and reference codes
+Assignment solutions from DBDA coursework
+Mini projects for practice
+Important examples that strengthen Python concepts
