@@ -1,0 +1,30 @@
+📂 Foundation/JAVA/
+
+This folder contains my Java programming learnings and assignments from the Foundation module of CDAC DBDA.
+
+📖 Topics Covered
+
+Basics → Syntax, Variables, Data Types, Operators
+Control Flow → If-else, Switch, Loops
+OOP Concepts → Classes, Objects, Constructors, Inheritance, Polymorphism, Abstraction, Encapsulation
+Exception Handling → Try-Catch, Finally, Custom Exceptions
+Collections Framework → Lists, Sets, Maps, Iterators
+File Handling → Reading and writing files in Java
+Multithreading → Threads, Synchronization, Thread Lifecycle
+Assignments → Weekly problem-solving tasks
+Mini Projects → Small Java-based programs for practice
+
+🛠 Tools & Environment
+
+JDK: Java SE 17+
+IDE: IntelliJ IDEA / Eclipse / VS Code
+Build Tools: Maven (if used in later modules)
+
+📌 Notes
+
+This folder is purely for learning & practice.
+Code examples may include:
+Simple console-based programs
+Object-oriented design examples
+
+Assignment solutions
